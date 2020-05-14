@@ -1,0 +1,30 @@
+News articles from a region - new york times API
+
+
+python - recommeonder - collabrative users - team member have already viewed the patent to someone working on the same teamor to another group with the same scope
+or you could simple filtering based on what the user has already seen
+
+recommender - same amount of work plus if have a web interface (flask and python) user friendly - cloud key words, 
+browse cloud of related key words, use d3
+
+
+database - 
+
+BM25 - different fields and weight them, but then have to find relavence judgements - cranfield method, sample
+
+do a query do useful
+
+what fields are more important to find new technology - 
+filter by sector
+topic modeling on descriptions - which words are more frequenct
+
+
+retrieval, do summary timelines, 
+
+
+-----------------------------------------------
+Technolpgy Review:
+design choices for building libraries - 
+people built this way, people built that way, 
+
+Ismini Lourentzou
